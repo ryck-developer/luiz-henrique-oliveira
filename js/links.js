@@ -12,7 +12,7 @@ export const links = [
     link: 'https://www.cod3r.com.br/courses/nextjs?ref=5eebf4',
   },
   {
-    nome: 'Python do Básico ao Avançado',
+    name: 'Python do Básico ao Avançado',
     link: 'https://www.cod3r.com.br/courses/python3?ref=5eebf4',
   },
 ];
