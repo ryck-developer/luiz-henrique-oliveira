@@ -16,7 +16,7 @@ export const links = [
     link: 'https://www.cod3r.com.br/courses/python3?ref=5eebf4',
   },
   {
-    name: 'Domine Docker! suba suas aplicações',
+    name: 'Domine Docker! Suba Suas Aplicações',
     link: 'https://www.cod3r.com.br/courses/docker?ref=5eebf4',
   },
 ];
