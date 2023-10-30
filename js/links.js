@@ -15,4 +15,8 @@ export const links = [
     name: 'Python do Básico ao Avançado',
     link: 'https://www.cod3r.com.br/courses/python3?ref=5eebf4',
   },
+  {
+    name: 'Domine Docker! suba suas aplicações',
+    link: 'https://www.cod3r.com.br/courses/docker?ref=5eebf4',
+  },
 ];
